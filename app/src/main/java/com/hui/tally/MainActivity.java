@@ -32,7 +32,7 @@ import java.util.Set;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     ListView todayLv;  //展示今日收支情况的ListView
     ImageView searchIv;
-    Button editBtn;
+    ImageButton editBtn;
     ImageButton moreBtn;
     //声明数据源
     List<AccountBean>mDatas;
