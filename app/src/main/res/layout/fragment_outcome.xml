@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/grey_f3f3f3">
+    android:background="@color/cloud_white">
 
     <RelativeLayout
         android:id="@+id/frag_record_rl_top"
@@ -41,6 +41,7 @@
         android:layout_height="1dp"
         android:layout_below="@id/frag_record_rl_top"
         android:background="@color/grey_f3f3f3"/>
+
     <GridView
         android:id="@+id/frag_record_gv"
         android:layout_width="match_parent"
@@ -49,14 +50,14 @@
         android:background="@color/white"
         android:numColumns="5"
         android:paddingTop="5dp"
-        android:paddingBottom="5dp"/>
+        android:paddingBottom="5dp" />
     <!-- 自定义软键盘-->
     <android.inputmethodservice.KeyboardView
         android:id="@+id/frag_record_keyboard"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:keyBackground="@color/grey_f3f3f3"
-        android:keyTextColor="@color/black"
+        android:keyBackground="@color/ocean_blue"
+        android:keyTextColor="@color/cloud_white"
         android:focusable="true"
         android:focusableInTouchMode="true"
         android:paddingTop="1dp"
@@ -72,7 +73,7 @@
             android:id="@+id/frag_record_tv_time"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2020年10月30日 18:49"
+            android:text="2022年11月16日 14:49"
             android:layout_alignParentRight="true"
             android:padding="10dp"/>
         <TextView
