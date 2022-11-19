@@ -23,6 +23,7 @@ public class IncomeFragment extends BaseRecordFragment {
     @Override
     public void saveAccountToDB() {
         accountBean.setKind(1);
+        accountBean.setsImageId(R.mipmap.in_qt_fs);
         DBManager.insertItemToAccounttb(accountBean);
     }
 }
