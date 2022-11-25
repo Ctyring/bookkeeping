@@ -25,7 +25,6 @@ public class OutcomeFragment extends BaseRecordFragment {
     @Override
     public void saveAccountToDB() {
         accountBean.setKind(0);
-        accountBean.setsImageId(R.mipmap.ic_qita_fs);
         DBManager.insertItemToAccounttb(accountBean);
     }
 }
