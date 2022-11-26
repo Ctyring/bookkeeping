@@ -86,8 +86,7 @@ public class CalendarDialog extends Dialog implements View.OnClickListener {
         int selYear = yearList.get(selectPos);
         adapter = new CalendarAdapter(getContext(), selYear);
         if (selectMonth == -1) {
-            int month = Calendar.getInstance().get(Calendar.MONTH);
-            adapter.selPos = month;
+            adapter.selPos = Calendar.getInstance().get(Calendar.MONTH);
         }else {
             adapter.selPos = selectMonth-1;
         }

@@ -5,5 +5,5 @@
     <corners android:radius="20dp"/>
 <!--    填充颜色-->
     <solid android:color="@color/white"/>
-    <stroke android:color="@color/green_006400" android:width="3dp"/>
+    <stroke android:color="@color/ocean_blue" android:width="3dp"/>
 </shape>
