@@ -5,6 +5,13 @@
       <map>
         <entry key="..\:/work/simple-bookkeeping/app/src/main/res/drawable/dialog_btn_bg.xml" value="0.259" />
         <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/activity_about.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/activity_history.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/dialog_beizhu.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/dialog_budget.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/dialog_calendar.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/dialog_more.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/dialog_time.xml" value="0.25364583333333335" />
+        <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/item_chartfrag_top.xml" value="0.2" />
         <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/item_dialogcal_gv.xml" value="0.25364583333333335" />
         <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/item_mainlv.xml" value="0.25364583333333335" />
         <entry key="..\:/work/simple-bookkeeping/app/src/main/res/layout/item_mainlv_top.xml" value="0.25364583333333335" />
